@@ -1,1 +1,1 @@
-# cs519.github.io
+To run the demo sucessfully, you must download the model of `vgg-face.mat` firstly. The download page is here: [vgg-face.mat](http://www.vlfeat.org/matconvnet/pretrained/). Put the model of `vgg-face.mat` to the root path and run the script of `extractCNN_VGG_Face.m` to extract face feature, then run the script of `queryInDatabaseDemo.m` to query an image.
